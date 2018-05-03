@@ -1,0 +1,15 @@
+1. Ultrasonic imaging
+领域：超声
+影响因子：1.5
+
+2.Computerized medical imaging and prophics: the official journal of the Computierized Medical Imaging Society
+领域： 影像诊断
+影响因子：1.3
+
+3. Artificail intelligence in medicine
+领域： 人工智能、医学
+影响因子：1.3
+
+4.Medical imaging analysis
+领域：影像诊断、计算机辅助图像处理
+
